@@ -2,8 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una API REST desarrollada con FastAPI para el análisis de imágenes utilizando técnicas de visión computacional. Forma parte del laboratorio 4 del curso de Arquitectura de Tecnologías Empresariales - Sistemas de Información en la Universidad Católica del Venezuela.
-
+Este proyecto es una API REST desarrollada con FastAPI para el análisis de imágenes utilizando técnicas de visión computacional. Forma parte del laboratorio 4 
 La API permite subir imágenes y analizarlas para detectar bordes utilizando el algoritmo de Canny de OpenCV, además de obtener las dimensiones de la imagen.
 
 ## Características
